@@ -1,6 +1,6 @@
-smiles,FDA_APPROVED,CT_TOX
-*C(=O)[C@H](CCCCNC(=O)OCCOC)NC(=O)OCCOC,1,0
-[C@@H]1([C@@H]([C@@H]([C@H]([C@@H]([C@@H]1Cl)Cl)Cl)Cl)Cl)Cl,1,0
+name,smiles,FDA_APPROVED,CT_TOX
+unknown,*C(=O)[C@H](CCCCNC(=O)OCCOC)NC(=O)OCCOC,1,0
+unknown,[C@@H]1([C@@H]([C@@H]([C@H]([C@@H]([C@@H]1Cl)Cl)Cl)Cl)Cl)Cl,1,0
 [C@H]([C@@H]([C@@H](C(=O)[O-])O)O)([C@H](C(=O)[O-])O)O,1,0
 [H]/[NH+]=C(/C1=CC(=O)/C(=C\C=c2ccc(=C([NH3+])N)cc2)/C=C1)\N,1,0
 [H]/[NH+]=C(\N)/c1ccc(cc1)OCCCCCOc2ccc(cc2)/C(=[NH+]/[H])/N,1,0
@@ -1479,7 +1479,7 @@ O1[As]2O[As]1O2,1,0
 O[32P](=O)([O-])[O-],1,0
 O=[Al]O[Al]=O,1,0
 O[Si](=O)O,1,0
-O=[Ti]=O,1,0
-O=[Zn],1,0
-OCl(=O)(=O)=O,1,0
-S=[Se]=S,1,0
+Titanium dioxide,O=[Ti]=O,1,0
+Desitin,O=[Zn],1,0
+perchloric acid,OCl(=O)(=O)=O,1,0
+selenium disulfide,S=[Se]=S,1,0
