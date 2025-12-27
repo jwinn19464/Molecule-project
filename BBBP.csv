@@ -24,31 +24,31 @@ num,name,p_np,smiles
 23,CHEMBL141988,0,c1cc2c(cc(CC3=CNC(=NC3=O)NCCSCc3oc(cc3)CN(C)C)cc2)cc1
 24,nadolol,1,CC(C)(C)NCC(O)COc1cccc2C[C@@H](O)[C@@H](O)Cc12
 25,sufentanil,1,CCC(=O)N(c1ccccc1)C2(CCN(CCc3sccc3)CC2)COC
-26,N-cyano-N'-[2-((3-bromo-2-pyridyl)methylthio)-ethyl]-N"-ethylguanidine,0,CCNC(=NC#N)NCCSCc1c(cccn1)Br
+26,"Ethylguanidine, N-cyano-N'-[2-((3-bromo-2-pyridyl)methylthio)-ethyl]-N"-",0,CCNC(=NC#N)NCCSCc1c(cccn1)Br
 27,zolpidem,1,CN(C)C(=O)Cc1n2cc(C)ccc2nc1c3ccc(C)cc3
 28,clozapine,1,CN1CCN(CC1)C2=C3C=CC=CC3=Nc4ccc(Cl)cc4N2
-29,Org12692,1,FC(F)(F)c1c(Cl)nc(N2CCNCC2)cc1
+29,"Org12692/Piperazine, 1-(6-chloro-5-(trifluoromethyl)pyridin-2-yl)-",1,FC(F)(F)c1c(Cl)nc(N2CCNCC2)cc1
 30,piperacillin,1,O.CCN1CCN(C(=O)N[C@@H](C(=O)N[C@H]2[C@H]3SC(C)(C)[C@@H](N3C2=O)C(O)=O)c4ccccc4)C(=O)C1=O
 31,Pentobarbital,1,CCCC(C)C1(CC)C(=O)NC(=O)NC1=O
 32,Levofloxacin,1,C[C@H]1COc2c(N3CCN(C)CC3)c(F)cc4C(=O)C(=CN1c24)C(O)=O
-33,compound 40,1,c1ccc(C(NCCCOc2cc(CN3CCCCC3)ccc2)=O)cc1
+33,"Benzamide, N-[3-[3-(1-piperidinylmethyl)phenoxy]propyl]-",1,c1ccc(C(NCCCOc2cc(CN3CCCCC3)ccc2)=O)cc1
 34,RO19-4603,1,CC(C)(C)OC(=O)C1=C2CN(C(=O)C3=C(N2C=N1)C=CS3)C
 35,fentanyl,1,CCC(=O)N(C1CCN(CC1)CCc2ccccc2)c3ccccc3
 36,etomidate,1,CCOC(=O)c1cncn1C(C)c2ccccc2
-37,11a,0,CN(C)c1cc(C2=NC(N)=NN2)ccn1
+37,4-(3-amino-1H-1,2,4-triazol-5-yl)-N,N-dimethylpyridin-2-amine,0,CN(C)c1cc(C2=NC(N)=NN2)ccn1
 38,prochlorperazine,1,CN1CCN(CCCN2c3ccccc3Sc4ccc(Cl)cc24)CC1
 39,2-(3'-Iodo-4'-aminophenyl)-6-hydroxybenzothiazole,1,IC1=C(N([H])[H])C=CC(C2=NC3=CC=C(O[H])C=C3S2)=C1
-40,compound 34,0,O=C(C)Nc1cc(c2csc(N=C(N)N)n2)ccc1
+40,CHEMBL145671,0,O=C(C)Nc1cc(c2csc(N=C(N)N)n2)ccc1
 41,granisetron,1,CN1[C@H]2CCC[C@@H]1CC(C2)NC(=O)c3nn(C)c4ccccc34
 42,thiamphenicol,1,C[S](=O)(=O)c1ccc(cc1)[C@@H](O)[C@@H](CO)NC(=O)C(Cl)Cl
-43,16,1,c1ccc(cc1)c1csc(n1)N=C(N)N
+43,"Guanidine, 1-(4-phenyl-1,3-thiazol-2-yl)-",1,c1ccc(cc1)c1csc(n1)N=C(N)N
 44,mexiletine,1,CC(N)COc1c(C)cccc1C
 45,dextropropoxyphene,1,CCC(=O)O[C@@](Cc1ccccc1)([C@H](C)CN(C)C)c2ccccc2
 46,Nor-1-chlorpromazine,1,ClC1=CC=C(C2=C1)SC3=C(N2CCCNC)C=CC=C3
-47,compound 37,1,CN(C)Cc1ccc(c2cccc(NC3C([N+]([O-])=O)=CC=N3)c2)o1
+47,compound 37*,1,CN(C)Cc1ccc(c2cccc(NC3C([N+]([O-])=O)=CC=N3)c2)o1
 48,cefamandole,1,Cn1nnnc1SCC2=C(N3[C@H](SC2)[C@H](NC(=O)[C@H](O)c4ccccc4)C3=O)C(O)=O
-49,Y-G 15,1,n(ccc1)c(c1)CCN(C)C
-50,Org13011,1,O=C1N(CCC1)CCCCN2CCN(CC2)c3cc(C(F)(F)F)ccn3
+49,"N,N-dimethylpyridine-2-ethylamine",1,n(ccc1)c(c1)CCN(C)C
+50,"Org13011/2-Pyrrolidinone, 1-(4-(4-(4-(trifluoromethyl)-2-pyridinyl)-1-piperazinyl)butyl)-",1,O=C1N(CCC1)CCCCN2CCN(CC2)c3cc(C(F)(F)F)ccn3
 51,Quinidine,1,COc1ccc2nccc([C@H](O)[C@H]3C[C@@H]4CCN3C[C@@H]4C=C)c2c1
 52,38480,1,c1(ccccc1)CC
 53,17,1,c1ccc(cc1N)c1csc(n1)N=C(N)N
@@ -2049,6 +2049,7 @@ num,name,p_np,smiles
 2051,mesocarb,1,[O+]1=N[N](C=C1[N-]C(NC2=CC=CC=C2)=O)C(CC3=CC=CC=C3)C
 2052,tofisoline,1,C1=C(OC)C(=CC2=C1C(=[N+](C(=C2CC)C)[NH-])C3=CC=C(C(=C3)OC)OC)OC
 2053,azidamfenicol,1,[N+](=NCC(=O)N[C@@H]([C@H](O)C1=CC=C([N+]([O-])=O)C=C1)CO)=[N-]
+
 
 
 
