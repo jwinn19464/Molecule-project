@@ -24,7 +24,7 @@ num,name,p_np,smiles
 23,CHEMBL141988,0,c1cc2c(cc(CC3=CNC(=NC3=O)NCCSCc3oc(cc3)CN(C)C)cc2)cc1
 24,nadolol,1,CC(C)(C)NCC(O)COc1cccc2C[C@@H](O)[C@@H](O)Cc12
 25,sufentanil,1,CCC(=O)N(c1ccccc1)C2(CCN(CCc3sccc3)CC2)COC
-26,"Ethylguanidine, N-cyano-N'-[2-((3-bromo-2-pyridyl)methylthio)-ethyl]-N"-",0,CCNC(=NC#N)NCCSCc1c(cccn1)Br
+26,N-cyano-N'-[2-((3-bromo-2-pyridyl)methylthio)-ethyl]-N"-ethylguanidine,0,CCNC(=NC#N)NCCSCc1c(cccn1)Br
 27,zolpidem,1,CN(C)C(=O)Cc1n2cc(C)ccc2nc1c3ccc(C)cc3
 28,clozapine,1,CN1CCN(CC1)C2=C3C=CC=CC3=Nc4ccc(Cl)cc4N2
 29,"Org12692/Piperazine, 1-(6-chloro-5-(trifluoromethyl)pyridin-2-yl)-",1,FC(F)(F)c1c(Cl)nc(N2CCNCC2)cc1
@@ -2049,6 +2049,7 @@ num,name,p_np,smiles
 2051,mesocarb,1,[O+]1=N[N](C=C1[N-]C(NC2=CC=CC=C2)=O)C(CC3=CC=CC=C3)C
 2052,tofisoline,1,C1=C(OC)C(=CC2=C1C(=[N+](C(=C2CC)C)[NH-])C3=CC=C(C(=C3)OC)OC)OC
 2053,azidamfenicol,1,[N+](=NCC(=O)N[C@@H]([C@H](O)C1=CC=C([N+]([O-])=O)C=C1)CO)=[N-]
+
 
 
 
