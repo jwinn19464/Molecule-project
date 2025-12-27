@@ -12,7 +12,7 @@ num,name,p_np,smiles
 11,M2L-663581,0,OCC(C)(O)c1onc(c2ncn3c2CN(C)C(c4c3cccc4Cl)=O)n1
 12,alovudine,1,CC1=CN([C@H]2C[C@H](F)[C@@H](CO)O2)C(=O)NC1=O
 13,Dichloromethane,1,C(Cl)Cl
-14,24959,1,C1N(C(CC2CCCCC12)C(NC(C)(C)C)=O)CC(C(Cc1ccccc1)NC(C(NC(c1nc2c(cccc2)cc1)=O)CC(N)=O)=O)O
+14,"Butanediamide, N-[1-benzyl-3-[3-(tert-butylcarbamoyl)-3,4,4a,5,6,7,8,8a-octahydro-1H-isoquinolin-2-yl]-2-hydroxy-propyl]-2-(quinoline-2-carbonylamino)-",1,C1N(C(CC2CCCCC12)C(NC(C)(C)C)=O)CC(C(Cc1ccccc1)NC(C(NC(c1nc2c(cccc2)cc1)=O)CC(N)=O)=O)O
 15,methadone,1,CCC(=O)C(CC(C)N(C)C)(c1ccccc1)c2ccccc2
 16,alfentanil,1,CCN1N=NN(CCN2CCC(CC2)(COC)N(C(=O)CC)c3ccccc3)C1=O
 17,BRL53080,1,CN(C)C(=O)C(CCN1CCC(O)(CC1)c1ccc(Cl)cc1)(c1ccccc1)c1ccccc1
@@ -2049,4 +2049,5 @@ num,name,p_np,smiles
 2051,mesocarb,1,[O+]1=N[N](C=C1[N-]C(NC2=CC=CC=C2)=O)C(CC3=CC=CC=C3)C
 2052,tofisoline,1,C1=C(OC)C(=CC2=C1C(=[N+](C(=C2CC)C)[NH-])C3=CC=C(C(=C3)OC)OC)OC
 2053,azidamfenicol,1,[N+](=NCC(=O)N[C@@H]([C@H](O)C1=CC=C([N+]([O-])=O)C=C1)CO)=[N-]
+
 
