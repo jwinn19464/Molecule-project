@@ -1,0 +1,35 @@
+,num,name,p_np,smiles,Compound ID,ESOL predicted log solubility in mols per litre,Minimum Degree,Molecular Weight,Number of H-Bond Donors,Number of Rings,Number of Rotatable Bonds,Polar Surface Area,measured log solubility in mols per litre
+0,21,2-Methylpentane,1,CCCC(C)C,2-Methylpentane,-2.6,1,86.178,0,0,2,0.0,-3.74
+1,36,etomidate,1,CCOC(=O)c1cncn1C(C)c2ccccc2,Etomidate,-3.359,1,244.294,0,2,4,44.12,-4.735
+2,73,Cyclohexane,1,C1CCCCC1,Cyclohexane,-2.477,2,84.162,0,1,0,0.0,-3.1
+3,101,acetaminophen,1,CC(=O)Nc1ccc(O)cc1,p-Hydroxyacetanilide,-1.495,1,151.165,2,1,1,49.33,-1.03
+4,167,primidone,1,CCC1(C(=O)NCNC1=O)c2ccccc2,Primidone,-1.897,1,218.256,2,2,2,58.2,-2.64
+5,285,mannitol,0,OCC(O)C(O)C(O)C(O)CO,Sorbitol,0.647,1,182.172,6,0,5,121.38,1.09
+6,298,Pyrazinamide,1,NC(=O)c1cnccn1,Pyrazinamide,-0.674,1,123.11499999999998,1,1,1,68.87,-0.667
+7,387,111-trichloroethane,1,CC(Cl)(Cl)Cl,"1,1,1-Trichloroethane",-2.232,1,133.405,0,0,0,0.0,-2.0
+8,389,2-methylpropanol,1,CC(C)CO,2-Methylpropan-1-ol,-0.672,1,74.12299999999999,1,0,1,20.23,0.1
+9,390,"""2,2-dimethylbutane""",1,CCC(C)(C)C,"2,2-Dimethylbutane",-2.584,1,86.17799999999998,0,0,0,0.0,-3.55
+10,407,3-methylpentane,1,CCC(C)CC,3-Methylpentane,-2.6,1,86.178,0,0,2,0.0,-3.68
+11,411,Benzene,1,c1ccccc1,Benzene ,-2.418,2,78.11399999999999,0,1,0,0.0,-1.64
+12,435,Dichloromethane,1,ClCCl,Dichloromethane,-1.156,1,84.93299999999999,0,0,0,0.0,-0.63
+13,436,Diethylether,1,CCOCC,Diethyl ether ,-0.718,1,74.123,0,0,2,9.23,-0.09
+14,454,amobarbital,1,CCC1(CCC(C)C)C(=O)NC(=O)NC1=O,Amobarbital,-2.312,1,226.276,2,1,4,75.27000000000001,-2.468
+15,456,Ethanol,1,CCO,Ethanol,0.02,1,46.069,1,0,0,20.23,1.1
+16,457,Ethylbenzene,1,CCc1ccccc1,Ethylbenzene,-2.988,1,106.16799999999996,0,1,1,0.0,-2.77
+17,462,Heptane,1,CCCCCCC,Heptane,-2.97,1,100.205,0,0,4,0.0,-4.53
+18,463,Hexane,1,CCCCCC,Hexane ,-2.615,1,86.178,0,0,3,0.0,-3.84
+19,478,benzocaine,1,CCOC(=O)c1ccc(N)cc1,Benzocaine,-2.383,1,165.19199999999998,1,1,2,52.32,-2.616
+20,487,Methylcyclopentane,1,CC1CCCC1,Methylcyclopentane,-2.452,1,84.162,0,1,0,0.0,-3.3
+21,510,Pentane,1,CCCCC,Pentane,-2.261,1,72.151,0,0,2,0.0,-3.18
+22,511,Propanol,1,CCCO,1-Propanol,-0.3339999999999999,1,60.096,1,0,1,20.23,0.62
+23,541,Toluene,1,Cc1ccccc1,Toluene ,-2.713,1,92.141,0,1,0,0.0,-2.21
+24,563,Trichloroethylene,1,ClC=C(Cl)Cl,Trichloroethylene,-2.312,1,131.389,0,0,0,0.0,-1.96
+25,564,Trichloromethane,1,ClC(Cl)Cl,Trichloromethane,-1.812,1,119.378,0,0,0,0.0,-1.17
+26,570,m-Xylene,1,Cc1cccc(C)c1,m-Xylene ,-3.035,1,106.168,0,1,0,0.0,-2.82
+27,585,diphenhylhydantoin,1,O=C1NC(=O)C(N1)(c2ccccc2)c3ccccc3,Phenytoin,-3.057,1,252.273,2,3,2,58.2,-4.097
+28,588,o-Xylene,1,Cc1ccccc1C,o-Xylene ,-3.004,1,106.168,0,1,0,0.0,-2.8
+29,589,p-Xylene,1,Cc1ccc(C)cc1,p-Xylene ,-3.035,1,106.168,0,1,0,0.0,-2.77
+30,590,2-propanol,1,CC(C)O,2-Propanol,-0.261,1,60.096,1,0,0,20.23,0.43
+31,698,methocarbamol,1,COc1ccccc1OCC(O)COC(N)=O,Methocarbamol,-1.4280000000000002,1,241.24299999999997,2,1,6,91.01,-0.985
+32,725,Disulfiram,1,CCN(CC)C(=S)SSC(=S)N(CC)CC,Disulfiram,-3.862,1,296.5520000000001,0,0,4,6.48,-4.86
+33,1208,ethyl-loflazepate,1,C=C,Ethylene,-0.815,1,28.053999999999995,0,0,0,0.0,-0.4
